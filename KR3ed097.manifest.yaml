@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed097_000.yaml, hash: 'sha256:ed7d4750dd75a6623a88283569dd00e5f5540d5a92d378430642ab57eb20f0ac'}
+  - {seq: 0, filename: KR3ed097_000.yaml, hash: 'sha256:77d793101a62db582590510ae33348cd9f7c8adadbaf450d43ba661d7f671e1c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed097_000.markers.yaml, hash: 'sha256:bebab3df4c830233e6810b432d95fc12f9ab1e38e42f748a401bb5b986caa117'}
+  - {seq: 0, role: markers, filename: assets/KR3ed097_000.markers.yaml, hash: 'sha256:d5b3331b014f706eba2ad5077a4f32e6263d7445bb7393cd219c7d1a47fe6bda'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1281,7 +1281,4 @@ table_of_contents:
   label: 桂枝芍藥知母湯
   type: section
   level: 2
-hash: sha256:73eb40359a39316f11413671536b7d7b70d4d576d9dd45de83594f7e11986485
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0d5fcc19a62bf7b1efedbdbb5e9037d28248b1157cac2dfb5798065bc6f9318a
