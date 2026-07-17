@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed097_000.yaml, hash: 'sha256:671fdf8a2517a83c07b93e8bdd5d17b13fdf71b44d1014e13ea12d3a47b11c44'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed097_000.markers.yaml, hash: 'sha256:751417b44b8228c61f67da1f4c35ba36d8cec215e043b2c886c3251a6fbc0825'}
+  - {seq: 0, role: markers, filename: assets/KR3ed097_000.markers.yaml, hash: 'sha256:483ff7ccba4283b4aa740f9a0b5185f87002cb60312a038ee36c7c9bf9c98059'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1281,7 +1281,7 @@ table_of_contents:
   label: 桂枝芍藥知母湯
   type: section
   level: 2
-hash: sha256:72e183dc64f82e250d4c8dcf009675422d3d730171961370889e6fa5ad8f4a1d
+hash: sha256:bca04f3b642d2d6c715d66d48012a9043d1096588cb9fca8e64ffc073f68ebbd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
